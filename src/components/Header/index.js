@@ -5,6 +5,6 @@ import FakeData from "../Fakedata";
 export default () => (
   <header className={"header"}>
     <FakeData />
-    <h1>React with Nextjs</h1>
+    <h1>React-snap</h1>
   </header>
 );
